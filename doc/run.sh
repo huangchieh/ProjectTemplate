@@ -1,9 +1,5 @@
-# pip install sphinx
-# pip install furo
-#sphinx-build . _build 
-
 #!/usr/bin/env bash
-
+# If .md files updated, recompile the doc 
 WATCH_DIR="."
 BUILD_CMD="sphinx-build . _build"
 
