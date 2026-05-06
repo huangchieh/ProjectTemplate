@@ -4,7 +4,7 @@ This is a template to start a new project.
 ## Installation
 
 ```bash
-conda env create -f src/myenv.yml
+conda env create -f myenv.yml
 ```
 Change the env name to another one. 
 
