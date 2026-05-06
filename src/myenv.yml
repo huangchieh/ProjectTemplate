@@ -1,0 +1,20 @@
+name: myenv
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3
+  - sphinx
+  - numpy
+  - matplotlib
+  - pandas
+  - ase
+  - pip
+  - pip:
+      - furo
+      - myst-parser
+      - snakemake
+      - sphinx-tabs
+      - sphinx-copybutton
+      - sphinxcontrib.bibtex
+      - git+https://github.com/HuangJiaLian/sphinx-molview.git
