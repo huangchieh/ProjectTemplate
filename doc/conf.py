@@ -6,7 +6,7 @@
 # -- Project information -----------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#project-information
 
-project = 'Fatastic Project'
+project = 'Fantastic Project'
 copyright = '2026, SIN group, Aalto University.'
 author = 'Jie Huang'
 release = '0.1.0'
