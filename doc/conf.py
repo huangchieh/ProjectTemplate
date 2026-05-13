@@ -26,7 +26,8 @@ bibtex_bibfiles = ["_static/ref.bib"]
 myst_enable_extensions = [
     'colon_fence',
     'amsmath',
-    'dollarmath',]
+    'dollarmath',
+    'strikethrough']
 # Enable automatic figure numbering
 # Note: numfig counts figures across ALL documents, not per-page
 # Set to False if you want per-page numbering (must be done manually)
