@@ -21,7 +21,7 @@ sys.path.insert(0, str(Path(__file__).parent / '_extensions'))
 
 
 extensions = ['myst_parser', 'sphinx.ext.mathjax', 'sphinx_molview', 'sphinxcontrib.bibtex',
-              'per_page_numfig']
+              'per_page_numfig', 'sphinx_design']
 bibtex_bibfiles = ["_static/ref.bib"]
 myst_enable_extensions = [
     'colon_fence',
